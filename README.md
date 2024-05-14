@@ -11,6 +11,8 @@ This README provides an overview of the model's structure, setup instructions, a
 
 - Python 3.10.9
 - NumPy
+- Pandas 
+
 
 # Description
 
