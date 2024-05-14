@@ -1,1 +1,4 @@
 # handwrittenDigitClassifier
+1. I am using a database that has already convirted hundreds of 28x28 pixel images of handwritten numbers into a  one dimensional matrix of 784 pixels overall. Each of these pixels can have values ranging from 0-255, 0 representing an empty pixel and 255 representing a completley colored and dark pixel.  
+2. I then transposed this one dimensional matrix to become a matrix with 784 row elements and one column element for each. This was done to treat each specific pixel as an individual node to be able to add a weight and a bias to it and create the neural network. 
+3. The first hidden layer will be a 10x1 matrix representing each of the 10 digits the images can be showing. One hidden layer is enough for a project like this since it lacks excessive complexity. 
