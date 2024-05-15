@@ -7,11 +7,12 @@ This project develops a neural network-based classifier that identifies handwrit
 
 This README provides an overview of the model's structure, setup instructions, and how to use the project for classification tasks.
 
-## Technologies Used
+## Technologies Used and installs required
 
 - Python 3.10.9
 - NumPy
 - Pandas 
+- Kaggle datasets
 
 
 # Description
